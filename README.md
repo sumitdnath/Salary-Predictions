@@ -45,14 +45,12 @@ It can be evaluated as to how much the predicted salary was off by the actual am
 
 Used models:
 *	**Multiple Linear Regression**
-*	**Lasso Regression**
 *	**Random Forest** 
 
 ## Model performance
 The Random Forest model was way too effective as compared to the regression models
 *	**Random Forest** : MAE = 11.22
 *	**Linear Regression**: MAE = 18.86
-*	**Ridge Regression**: MAE = 19.67
 
 
 
